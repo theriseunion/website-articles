@@ -206,4 +206,8 @@ References:
 
 RiseUnion is committed to making compute as readily available as water and electricity, building an intelligent, controllable and efficient **computing foundation** for enterprise AI transformation.
 
-For more information, visit **www.theriseunion.com**
+For more information, visit the [RiseUnion website](https://www.theriseunion.com/en.html)
+
+---
+
+[Read this article on the RiseUnion website](https://www.theriseunion.com/en/blog/jev-decision-models-enterprise-ai.html) · [Explore more articles](https://www.theriseunion.com/en/blog.html)

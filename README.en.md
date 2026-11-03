@@ -1,10 +1,10 @@
-[简体中文](./README.md)
+[简体中文](./README.md) · [Official website](https://www.theriseunion.com/en.html) · [Website articles](https://www.theriseunion.com/en/blog.html)
 
 # RiseUnion Articles
 
 Chinese and English editions of articles from the RiseUnion website, with complete text and local images.
 
-Articles are maintained in [website](https://github.com/theriseunion/website). This repository provides copies for reading and sharing. It currently contains one sample for reviewing the layout.
+Explore technical insights and company news from RiseUnion, available in Chinese and English for reading and sharing.
 
 ## Articles
 

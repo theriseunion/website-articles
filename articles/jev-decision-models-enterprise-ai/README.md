@@ -206,4 +206,8 @@ Jev 仍处于 Early Access（早期访问）阶段，它的长期效果、适用
 
 睿思智联致力于让算力像水电一样随取随用，为企业 AI 转型构建智能、可控、高效的**算力底座**。
 
-了解更多详细信息，欢迎访问官网：**www.theriseunion.com**
+了解更多详细信息，欢迎访问[睿思智联官网](https://www.theriseunion.com/zh.html)
+
+---
+
+[在睿思智联官网阅读本文](https://www.theriseunion.com/zh/blog/jev-decision-models-enterprise-ai.html) · [浏览更多文章](https://www.theriseunion.com/zh/blog.html)

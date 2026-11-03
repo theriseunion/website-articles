@@ -1,10 +1,10 @@
-[English](./README.en.md)
+[English](./README.en.md) · [官网首页](https://www.theriseunion.com/zh.html) · [官网文章](https://www.theriseunion.com/zh/blog.html)
 
 # 睿思智联文章
 
 睿思智联官网文章的中英文阅读版本，包含完整正文与本地图片。
 
-文章在 [website](https://github.com/theriseunion/website) 仓库维护，本仓库用于同步阅读与分享。当前先发布一篇样稿，供确认目录与展示效果。
+这里收录睿思智联的技术分享与公司动态，提供中英文版本，方便阅读与分享。
 
 ## 文章目录
 
