@@ -1,0 +1,21 @@
+[简体中文](./README.md) · [All articles](../../README.en.md) · [Read on the website](https://www.theriseunion.com/en/blog/riseunion-joins-diverse-computing-optimization-initiative.html)
+
+# RiseUnion Co-Authors Diverse Computing Optimization Plan
+
+RiseUnion · July 29, 2025 at 08:00 (UTC+08:00)
+
+RiseUnion partners with xFusion to co-author the Diverse Computing Hardware-Software Co-optimization Action Plan, addressing AI compute challenges through heterogeneous compute pooling and resource optimization for enterprise AI deployment.
+
+![Article cover](./images/cover.jpg)
+
+As large language models, AIGC (Generative AI), and other breakthrough technologies continue to advance, the artificial intelligence industry has accelerated into a new development phase focused on **"scenario-driven performance optimization"**. This transformation not only drives AI technologies from research laboratories into real-world applications across industries but fundamentally restructures development paradigms at the foundational level — reshaping enterprise business processes and commercialization pathways while imposing new requirements on compute infrastructure capabilities and AI application deployment efficiency.
+
+As a key strategic partner of xFusion Digital Technologies Co., Ltd. in heterogeneous compute pooling, RiseUnion has actively engaged in cutting-edge industry exploration. Recently, RiseUnion participated in co-authoring the **"Diverse Computing Hardware-Software Co-optimization Action Plan"** (hereinafter referred to as "Action Plan"), officially released by xFusion at the AI Agent and Applications Forum. This Action Plan was developed under the comprehensive guidance of the AI Committee of the China Computer Industry Association, with xFusion leading a consortium including RiseUnion and other industry partners. It serves as a **practical implementation guide** addressing current AI compute application challenges.
+
+During large-scale AI application deployment, enterprises commonly face challenges including fragmented compute resources, inefficient coordination between heterogeneous compute types, and high software-hardware integration costs. The Action Plan addresses these issues by analyzing the technical characteristics of diverse computing resources (including general-purpose compute, AI-specific accelerators, and HPC resources) and proposing a comprehensive hardware-software co-optimization framework: from hardware-layer compute resource pooling and management, through software-layer scheduling algorithm optimization, to application-layer integration solutions, creating an end-to-end performance enhancement approach. This enables enterprises to overcome compute bottlenecks, improve AI model training and inference efficiency, while reducing technical development barriers and overall costs, ensuring compute resources achieve true **"on-demand allocation and efficient coordination"**.
+
+A RiseUnion representative stated: "**Heterogeneous compute pooling** represents the critical pathway for addressing diverse computing coordination challenges. Our participation in co-authoring this Action Plan reflects both recognition of RiseUnion's technical expertise in this domain and the significant outcome of our deepening collaboration with partners like xFusion. Moving forward, we will continue prioritizing technology innovation, driving the integration of heterogeneous compute pooling technologies with Action Plan implementation, providing robust support for enterprise AI application cost optimization and efficiency enhancement." The release of this Action Plan provides a clear practical framework for collaborative development within the AI compute industry. RiseUnion will leverage this co-authoring opportunity to further collaborate with industry partners, jointly **advancing efficient utilization of diverse computing resources** and facilitating the AI industry's high-quality transition from **"technological breakthroughs"** to **"scenario-driven performance optimization"**.
+
+---
+
+[Read this article on the RiseUnion website](https://www.theriseunion.com/en/blog/riseunion-joins-diverse-computing-optimization-initiative.html) · [Explore more articles](https://www.theriseunion.com/en/blog.html)

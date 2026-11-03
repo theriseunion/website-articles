@@ -2,7 +2,7 @@
 
 # Jev Gains Momentum: AI Moves from Generating Answers to Supporting Decisions
 
-RiseUnion · September 23, 2026, 09:46 (UTC+08:00) · [Original WeChat article (Chinese)](https://mp.weixin.qq.com/s/2sovKzKASEeWx9h_XRS3QQ)
+RiseUnion · September 23, 2026 at 09:46 (UTC+08:00) · [Original WeChat article (Chinese)](https://mp.weixin.qq.com/s/2sovKzKASEeWx9h_XRS3QQ)
 
 Exploring how Jev decision models connect with enterprise AI infrastructure through model routing, Agent security and AI FinOps.
 
@@ -206,7 +206,7 @@ References:
 
 RiseUnion is committed to making compute as readily available as water and electricity, building an intelligent, controllable and efficient **computing foundation** for enterprise AI transformation.
 
-For more information, visit the [RiseUnion website](https://www.theriseunion.com/en.html)
+For more information, visit **www.theriseunion.com**
 
 ---
 

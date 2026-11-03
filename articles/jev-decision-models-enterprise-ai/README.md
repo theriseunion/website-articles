@@ -2,7 +2,7 @@
 
 # Jev火了：当 AI 从“生成答案”走向“参与决策”
 
-睿思智联 · 2026 年 9 月 23 日 09:46（北京时间） · [微信公众号原文](https://mp.weixin.qq.com/s/2sovKzKASEeWx9h_XRS3QQ)
+睿思智联 · 2026/09/23 09:46（北京时间） · [微信公众号原文](https://mp.weixin.qq.com/s/2sovKzKASEeWx9h_XRS3QQ)
 
 从模型路由、Agent安全到AI FinOps，探讨Jev决策模型与企业AI基础设施的连接。
 
@@ -206,7 +206,7 @@ Jev 仍处于 Early Access（早期访问）阶段，它的长期效果、适用
 
 睿思智联致力于让算力像水电一样随取随用，为企业 AI 转型构建智能、可控、高效的**算力底座**。
 
-了解更多详细信息，欢迎访问[睿思智联官网](https://www.theriseunion.com/zh.html)
+了解更多详细信息，欢迎访问官网：**www.theriseunion.com**
 
 ---
 
