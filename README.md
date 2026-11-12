@@ -6,11 +6,12 @@
 
 ## 文章目录
 
-共 116 篇，按发布时间倒序排列。
+共 117 篇，按发布时间倒序排列。
 
 | 发布时间（北京时间） | 文章 | 官网 |
 | --- | --- | --- |
 | 2026-11-12 09:59 | [首批！睿思智联通过昇腾 950DT 认证，让每一份算力都用在刀刃上](./articles/riseunion-ascend-950dt-certification/README.md) | [阅读](https://www.theriseunion.com/zh/blog/riseunion-ascend-950dt-certification.html) |
+| 2026-11-05 10:00 | [睿思智联助力券商，从"买卡堆卡"转向"经营Token产能"](./articles/riseunion-securities-token-capacity-operations/README.md) | [阅读](https://www.theriseunion.com/zh/blog/riseunion-securities-token-capacity-operations.html) |
 | 2026-11-03 09:39 | [算力底座，正在成为产业AI落地的关键变量 睿思智联亮相2026人工智能与产业融合发展对接会](./articles/riseunion-ai-industry-integration-2026/README.md) | [阅读](https://www.theriseunion.com/zh/blog/riseunion-ai-industry-integration-2026.html) |
 | 2026-10-28 10:40 | [从算力支撑到安全防护 睿思智联与模湖智能签署战略合作协议](./articles/riseunion-mohu-ai-security-partnership/README.md) | [阅读](https://www.theriseunion.com/zh/blog/riseunion-mohu-ai-security-partnership.html) |
 | 2026-10-13 10:20 | [让 AI 真正走进业务现场｜睿思智联亮相2026人工智能终端产业研讨会](./articles/riseunion-ai-terminal-industry-seminar-2026/README.md) | [阅读](https://www.theriseunion.com/zh/blog/riseunion-ai-terminal-industry-seminar-2026.html) |

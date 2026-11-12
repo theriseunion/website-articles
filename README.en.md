@@ -6,11 +6,12 @@ Technical insights and company news from RiseUnion, with complete Chinese and En
 
 ## Articles
 
-116 articles, listed from newest to oldest.
+117 articles, listed from newest to oldest.
 
 | Published (UTC+08:00) | Article | Website |
 | --- | --- | --- |
 | 2026-11-12 09:59 | [Among the First: RiseUnion Earns Ascend 950DT Certification, Putting Every Unit of Compute to Work](./articles/riseunion-ascend-950dt-certification/README.en.md) | [Read](https://www.theriseunion.com/en/blog/riseunion-ascend-950dt-certification.html) |
+| 2026-11-05 10:00 | [RiseUnion Helps a Securities Firm Move from Buying and Stockpiling Accelerators to Operating Token Production Capacity](./articles/riseunion-securities-token-capacity-operations/README.en.md) | [Read](https://www.theriseunion.com/en/blog/riseunion-securities-token-capacity-operations.html) |
 | 2026-11-03 09:39 | [Compute Infrastructure Becomes Key to Industrial AI Adoption: RiseUnion at the 2026 AI and Industry Integration Matchmaking Event](./articles/riseunion-ai-industry-integration-2026/README.en.md) | [Read](https://www.theriseunion.com/en/blog/riseunion-ai-industry-integration-2026.html) |
 | 2026-10-28 10:40 | [From Computing Support to Security Protection: RiseUnion and Mohu Intelligence Sign a Strategic Cooperation Agreement](./articles/riseunion-mohu-ai-security-partnership/README.en.md) | [Read](https://www.theriseunion.com/en/blog/riseunion-mohu-ai-security-partnership.html) |
 | 2026-10-13 10:20 | [Bringing AI into Real Business Operations \| RiseUnion at the 2026 AI Terminal Industry Seminar](./articles/riseunion-ai-terminal-industry-seminar-2026/README.en.md) | [Read](https://www.theriseunion.com/en/blog/riseunion-ai-terminal-industry-seminar-2026.html) |
